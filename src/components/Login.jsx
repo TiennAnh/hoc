@@ -48,7 +48,7 @@ const Login = () => {
         value={password}
         placeholder="******"
       />
-      <button onClick={handleApi}>Click</button>
+      <button onClick={handleApi}>Click update</button>
     </div>
   );
 };
